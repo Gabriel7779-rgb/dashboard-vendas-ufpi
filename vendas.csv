@@ -1,0 +1,301 @@
+﻿pedido_id,data,regiao,categoria,produto,quantidade,valor_unitario,vendas
+P0277,2025-01-01,Sudeste,Esportes,Bola,5,170.42,852.1
+P0023,2025-01-02,Sul,Casa,Luminária,2,437.86,875.72
+P0159,2025-01-02,Sul,Casa,Almofada,5,331.65,1658.25
+P0111,2025-01-07,Sudeste,Alimentos,Biscoitos,1,373.25,373.25
+P0126,2025-01-08,Norte,Esportes,Colchonete,1,72.68,72.68
+P0203,2025-01-09,Sudeste,Vestuário,Camiseta,2,132.64,265.28
+P0280,2025-01-09,Nordeste,Casa,Luminária,3,358.64,1075.92
+P0003,2025-01-17,Sul,Eletrônicos,Fone Bluetooth,2,58.48,116.96
+P0137,2025-01-17,Sudeste,Vestuário,Camiseta,3,142.46,427.38
+P0195,2025-01-17,Nordeste,Casa,Organizador,4,111.86,447.44
+P0034,2025-01-17,Centro-Oeste,Casa,Almofada,2,48.61,97.22
+P0182,2025-01-18,Norte,Esportes,Colchonete,2,175.62,351.24
+P0286,2025-01-19,Centro-Oeste,Vestuário,Jaqueta,1,141.6,141.6
+P0292,2025-01-22,Centro-Oeste,Casa,Luminária,4,283.62,1134.48
+P0008,2025-01-23,Norte,Alimentos,Biscoitos,4,249.65,998.6
+P0261,2025-01-23,Sudeste,Alimentos,Biscoitos,2,175.38,350.76
+P0227,2025-01-24,Norte,Vestuário,Camiseta,5,188.75,943.75
+P0041,2025-01-26,Nordeste,Esportes,Bola,1,379.16,379.16
+P0152,2025-01-27,Centro-Oeste,Vestuário,Tênis,2,133.37,266.74
+P0129,2025-01-27,Norte,Casa,Luminária,4,424.54,1698.16
+P0151,2025-01-28,Sudeste,Vestuário,Tênis,5,241.97,1209.85
+P0047,2025-01-30,Norte,Esportes,Garrafa esportiva,2,52.61,105.22
+P0204,2025-02-02,Sul,Alimentos,Café,3,211.65,634.95
+P0221,2025-02-05,Norte,Vestuário,Calça,1,338.1,338.1
+P0075,2025-02-05,Centro-Oeste,Casa,Organizador,1,287.2,287.2
+P0158,2025-02-05,Centro-Oeste,Casa,Organizador,4,351.8,1407.2
+P0140,2025-02-06,Sul,Eletrônicos,Mouse,3,89.68,269.04
+P0231,2025-02-06,Sudeste,Alimentos,Café,1,390.28,390.28
+P0175,2025-02-07,Centro-Oeste,Alimentos,Chocolate,5,426.34,2131.7
+P0052,2025-02-07,Norte,Eletrônicos,Fone Bluetooth,5,215.98,1079.9
+P0293,2025-02-08,Norte,Alimentos,Chá,2,174.95,349.9
+P0061,2025-02-08,Sul,Vestuário,Calça,3,253.7,761.1
+P0237,2025-02-09,Sul,Esportes,Bola,5,291.55,1457.75
+P0172,2025-02-10,Nordeste,Esportes,Mochila,5,394.2,1971.0
+P0253,2025-02-11,Centro-Oeste,Esportes,Mochila,3,304.68,914.04
+P0289,2025-02-12,Nordeste,Alimentos,Biscoitos,5,52.1,260.5
+P0248,2025-02-13,Nordeste,Esportes,Mochila,1,297.13,297.13
+P0019,2025-02-16,Nordeste,Eletrônicos,Carregador,2,390.0,780.0
+P0120,2025-02-17,Centro-Oeste,Casa,Organizador,2,113.73,227.46
+P0212,2025-02-18,Centro-Oeste,Casa,Copo térmico,3,202.36,607.08
+P0214,2025-02-19,Norte,Casa,Organizador,5,368.68,1843.4
+P0210,2025-02-20,Nordeste,Eletrônicos,Carregador,5,386.41,1932.05
+P0196,2025-02-20,Norte,Casa,Almofada,3,253.21,759.63
+P0164,2025-02-21,Norte,Alimentos,Chá,4,61.08,244.32
+P0125,2025-02-21,Nordeste,Vestuário,Jaqueta,3,145.98,437.94
+P0235,2025-02-24,Sul,Vestuário,Camiseta,4,206.21,824.84
+P0107,2025-02-25,Sul,Esportes,Mochila,3,29.09,87.27
+P0274,2025-02-26,Norte,Casa,Copo térmico,1,120.66,120.66
+P0218,2025-02-28,Sul,Casa,Luminária,4,266.01,1064.04
+P0139,2025-02-28,Centro-Oeste,Esportes,Bola,2,115.12,230.24
+P0155,2025-02-28,Sudeste,Alimentos,Biscoitos,2,427.13,854.26
+P0191,2025-03-01,Centro-Oeste,Vestuário,Tênis,1,37.59,37.59
+P0192,2025-03-01,Nordeste,Eletrônicos,Carregador,5,119.43,597.15
+P0287,2025-03-05,Sudeste,Casa,Almofada,4,206.76,827.04
+P0199,2025-03-06,Nordeste,Esportes,Bola,5,106.65,533.25
+P0254,2025-03-08,Centro-Oeste,Esportes,Mochila,1,324.22,324.22
+P0202,2025-03-09,Sul,Eletrônicos,Mouse,2,172.76,345.52
+P0056,2025-03-10,Sul,Casa,Copo térmico,1,67.87,67.87
+P0283,2025-03-11,Norte,Eletrônicos,Mouse,4,327.33,1309.32
+P0100,2025-03-11,Sudeste,Alimentos,Biscoitos,3,96.51,289.53
+P0271,2025-03-12,Nordeste,Eletrônicos,Carregador,4,141.93,567.72
+P0002,2025-03-13,Norte,Eletrônicos,Carregador,5,310.33,1551.65
+P0017,2025-03-13,Centro-Oeste,Vestuário,Tênis,5,339.84,1699.2
+P0239,2025-03-16,Nordeste,Casa,Luminária,5,103.22,516.1
+P0201,2025-03-16,Norte,Vestuário,Camiseta,2,251.37,502.74
+P0160,2025-03-18,Centro-Oeste,Alimentos,Chocolate,3,250.67,752.01
+P0242,2025-03-19,Centro-Oeste,Alimentos,Biscoitos,4,47.5,190.0
+P0092,2025-03-19,Nordeste,Vestuário,Camiseta,2,183.47,366.94
+P0260,2025-03-20,Nordeste,Vestuário,Tênis,5,96.13,480.65
+P0025,2025-03-20,Sul,Casa,Luminária,5,347.4,1737.0
+P0217,2025-03-21,Centro-Oeste,Alimentos,Biscoitos,1,114.87,114.87
+P0136,2025-03-22,Sudeste,Eletrônicos,Mouse,5,194.48,972.4
+P0098,2025-03-26,Sul,Alimentos,Café,5,415.24,2076.2
+P0234,2025-03-29,Norte,Esportes,Mochila,3,216.76,650.28
+P0145,2025-03-31,Centro-Oeste,Alimentos,Chá,4,242.19,968.76
+P0240,2025-04-01,Sul,Alimentos,Chocolate,5,218.43,1092.15
+P0071,2025-04-02,Norte,Esportes,Garrafa esportiva,3,433.81,1301.43
+P0123,2025-04-09,Nordeste,Casa,Copo térmico,5,69.65,348.25
+P0039,2025-04-09,Sudeste,Vestuário,Calça,2,249.68,499.36
+P0077,2025-04-09,Nordeste,Alimentos,Biscoitos,4,305.25,1221.0
+P0082,2025-04-12,Sudeste,Vestuário,Camiseta,2,28.55,57.1
+P0104,2025-04-13,Nordeste,Eletrônicos,Carregador,2,286.42,572.84
+P0284,2025-04-14,Centro-Oeste,Eletrônicos,Mouse,1,359.76,359.76
+P0228,2025-04-15,Centro-Oeste,Casa,Organizador,2,426.38,852.76
+P0094,2025-04-16,Norte,Alimentos,Chocolate,5,186.25,931.25
+P0063,2025-04-18,Sul,Vestuário,Tênis,3,306.12,918.36
+P0101,2025-04-19,Centro-Oeste,Alimentos,Chocolate,4,159.2,636.8
+P0030,2025-04-19,Centro-Oeste,Esportes,Mochila,2,344.27,688.54
+P0016,2025-04-19,Nordeste,Alimentos,Biscoitos,4,188.91,755.64
+P0035,2025-04-20,Sul,Esportes,Mochila,5,75.16,375.8
+P0124,2025-04-21,Sul,Alimentos,Biscoitos,5,137.45,687.25
+P0273,2025-04-21,Sul,Vestuário,Tênis,5,255.08,1275.4
+P0085,2025-04-23,Sudeste,Vestuário,Camiseta,5,365.38,1826.9
+P0268,2025-04-24,Sudeste,Alimentos,Café,1,400.16,400.16
+P0270,2025-04-25,Centro-Oeste,Eletrônicos,Teclado,1,155.67,155.67
+P0103,2025-04-25,Norte,Eletrônicos,Teclado,1,355.49,355.49
+P0186,2025-04-26,Centro-Oeste,Alimentos,Café,5,435.86,2179.3
+P0068,2025-04-27,Sudeste,Vestuário,Jaqueta,2,28.22,56.44
+P0162,2025-04-30,Sudeste,Alimentos,Chocolate,4,36.86,147.44
+P0200,2025-04-30,Norte,Casa,Organizador,5,352.53,1762.65
+P0011,2025-04-30,Centro-Oeste,Eletrônicos,Teclado,4,182.21,728.84
+P0168,2025-05-01,Sudeste,Casa,Luminária,1,448.89,448.89
+P0027,2025-05-03,Norte,Eletrônicos,Fone Bluetooth,5,122.06,610.3
+P0036,2025-05-05,Norte,Alimentos,Café,2,366.84,733.68
+P0115,2025-05-05,Centro-Oeste,Alimentos,Café,4,264.18,1056.72
+P0171,2025-05-06,Nordeste,Esportes,Bola,2,196.01,392.02
+P0054,2025-05-06,Sul,Casa,Organizador,4,141.11,564.44
+P0032,2025-05-07,Sul,Vestuário,Calça,1,45.66,45.66
+P0298,2025-05-08,Sudeste,Eletrônicos,Carregador,2,29.19,58.38
+P0265,2025-05-09,Sul,Eletrônicos,Fone Bluetooth,3,294.99,884.97
+P0102,2025-05-10,Norte,Eletrônicos,Mouse,5,221.17,1105.85
+P0050,2025-05-14,Nordeste,Vestuário,Jaqueta,3,307.32,921.96
+P0135,2025-05-16,Sul,Eletrônicos,Fone Bluetooth,2,85.85,171.7
+P0066,2025-05-17,Sudeste,Vestuário,Camiseta,1,358.15,358.15
+P0091,2025-05-20,Norte,Casa,Copo térmico,5,156.11,780.55
+P0267,2025-05-20,Sudeste,Alimentos,Café,2,409.09,818.18
+P0097,2025-05-20,Centro-Oeste,Alimentos,Chocolate,4,227.8,911.2
+P0057,2025-05-20,Nordeste,Casa,Organizador,3,279.29,837.87
+P0059,2025-05-22,Centro-Oeste,Eletrônicos,Teclado,2,19.53,39.06
+P0197,2025-05-22,Norte,Vestuário,Calça,4,436.27,1745.08
+P0040,2025-05-23,Sudeste,Alimentos,Café,1,125.92,125.92
+P0069,2025-05-23,Centro-Oeste,Eletrônicos,Carregador,3,435.7,1307.1
+P0250,2025-05-25,Sul,Alimentos,Café,3,194.59,583.77
+P0252,2025-05-26,Nordeste,Casa,Organizador,5,330.65,1653.25
+P0045,2025-06-01,Sul,Vestuário,Camiseta,5,436.48,2182.4
+P0185,2025-06-01,Norte,Casa,Copo térmico,4,365.43,1461.72
+P0258,2025-06-01,Sul,Eletrônicos,Fone Bluetooth,5,237.32,1186.6
+P0154,2025-06-09,Norte,Esportes,Bola,4,23.91,95.64
+P0046,2025-06-10,Sul,Eletrônicos,Teclado,4,39.66,158.64
+P0015,2025-06-11,Sul,Alimentos,Biscoitos,2,133.66,267.32
+P0290,2025-06-14,Centro-Oeste,Eletrônicos,Carregador,3,52.59,157.77
+P0208,2025-06-14,Centro-Oeste,Esportes,Colchonete,2,82.08,164.16
+P0114,2025-06-15,Centro-Oeste,Vestuário,Tênis,1,376.88,376.88
+P0170,2025-06-16,Sudeste,Eletrônicos,Teclado,3,144.73,434.19
+P0223,2025-06-16,Nordeste,Esportes,Bola,1,275.57,275.57
+P0183,2025-06-17,Sul,Alimentos,Biscoitos,2,93.88,187.76
+P0229,2025-06-17,Nordeste,Eletrônicos,Teclado,4,21.34,85.36
+P0288,2025-06-23,Centro-Oeste,Vestuário,Jaqueta,4,232.36,929.44
+P0117,2025-06-24,Sul,Casa,Luminária,3,398.3,1194.9
+P0257,2025-06-24,Nordeste,Alimentos,Café,2,100.95,201.9
+P0006,2025-06-24,Norte,Casa,Luminária,3,85.17,255.51
+P0226,2025-06-26,Sudeste,Alimentos,Biscoitos,5,65.9,329.5
+P0238,2025-06-28,Nordeste,Casa,Luminária,2,332.23,664.46
+P0147,2025-06-28,Nordeste,Alimentos,Biscoitos,1,161.99,161.99
+P0220,2025-06-29,Sul,Eletrônicos,Carregador,2,96.37,192.74
+P0122,2025-06-30,Nordeste,Alimentos,Café,3,135.04,405.12
+P0295,2025-07-05,Sul,Alimentos,Chá,1,428.17,428.17
+P0263,2025-07-08,Centro-Oeste,Esportes,Mochila,4,443.28,1773.12
+P0106,2025-07-08,Nordeste,Vestuário,Jaqueta,1,279.75,279.75
+P0012,2025-07-09,Norte,Casa,Copo térmico,3,108.51,325.53
+P0222,2025-07-12,Centro-Oeste,Alimentos,Biscoitos,2,213.97,427.94
+P0007,2025-07-14,Sul,Eletrônicos,Mouse,3,173.08,519.24
+P0230,2025-07-14,Sul,Esportes,Colchonete,5,321.99,1609.95
+P0043,2025-07-14,Sudeste,Eletrônicos,Mouse,3,443.65,1330.95
+P0209,2025-07-15,Sul,Esportes,Mochila,4,247.2,988.8
+P0073,2025-07-17,Sudeste,Esportes,Garrafa esportiva,1,100.11,100.11
+P0279,2025-07-19,Centro-Oeste,Alimentos,Biscoitos,4,36.81,147.24
+P0099,2025-07-21,Norte,Esportes,Mochila,1,261.82,261.82
+P0269,2025-07-22,Norte,Esportes,Colchonete,4,179.55,718.2
+P0051,2025-07-22,Sudeste,Vestuário,Jaqueta,3,308.17,924.51
+P0187,2025-07-22,Sudeste,Eletrônicos,Mouse,1,132.25,132.25
+P0236,2025-07-22,Centro-Oeste,Casa,Copo térmico,2,340.19,680.38
+P0108,2025-07-23,Norte,Vestuário,Jaqueta,2,50.83,101.66
+P0130,2025-07-25,Nordeste,Alimentos,Chá,1,50.0,50.0
+P0078,2025-07-27,Centro-Oeste,Esportes,Bola,3,378.17,1134.51
+P0042,2025-07-28,Norte,Alimentos,Chá,4,225.95,903.8
+P0165,2025-07-29,Centro-Oeste,Vestuário,Tênis,3,50.33,150.99
+P0148,2025-07-30,Sul,Alimentos,Café,4,142.51,570.04
+P0065,2025-07-31,Sudeste,Eletrônicos,Teclado,3,95.48,286.44
+P0093,2025-08-01,Sudeste,Alimentos,Café,4,160.94,643.76
+P0194,2025-08-01,Sudeste,Eletrônicos,Mouse,5,378.16,1890.8
+P0275,2025-08-03,Sudeste,Esportes,Garrafa esportiva,1,215.47,215.47
+P0044,2025-08-05,Nordeste,Esportes,Bola,4,303.93,1215.72
+P0079,2025-08-09,Sudeste,Esportes,Mochila,3,280.08,840.24
+P0062,2025-08-09,Norte,Vestuário,Jaqueta,3,36.07,108.21
+P0143,2025-08-10,Norte,Casa,Copo térmico,1,278.8,278.8
+P0141,2025-08-13,Sudeste,Eletrônicos,Mouse,3,220.48,661.44
+P0249,2025-08-13,Centro-Oeste,Esportes,Colchonete,2,243.83,487.66
+P0060,2025-08-15,Norte,Esportes,Garrafa esportiva,5,322.85,1614.25
+P0080,2025-08-15,Norte,Vestuário,Jaqueta,2,238.83,477.66
+P0262,2025-08-18,Sudeste,Vestuário,Calça,3,248.69,746.07
+P0005,2025-08-18,Nordeste,Esportes,Mochila,1,138.18,138.18
+P0272,2025-08-18,Norte,Esportes,Colchonete,1,20.27,20.27
+P0246,2025-08-19,Sul,Esportes,Mochila,3,299.59,898.77
+P0133,2025-08-19,Sudeste,Alimentos,Biscoitos,5,146.46,732.3
+P0244,2025-08-20,Norte,Eletrônicos,Fone Bluetooth,3,42.58,127.74
+P0211,2025-08-20,Sudeste,Vestuário,Tênis,4,196.77,787.08
+P0205,2025-08-20,Norte,Esportes,Colchonete,5,113.71,568.55
+P0193,2025-08-21,Sudeste,Casa,Copo térmico,5,307.65,1538.25
+P0149,2025-08-21,Norte,Eletrônicos,Carregador,3,153.87,461.61
+P0083,2025-08-22,Nordeste,Alimentos,Chocolate,5,400.81,2004.05
+P0161,2025-08-22,Sul,Casa,Almofada,2,393.67,787.34
+P0157,2025-08-22,Sul,Esportes,Bola,2,80.49,160.98
+P0206,2025-08-23,Sudeste,Eletrônicos,Carregador,4,44.28,177.12
+P0232,2025-08-24,Sudeste,Eletrônicos,Carregador,5,390.43,1952.15
+P0087,2025-08-26,Centro-Oeste,Esportes,Mochila,5,444.77,2223.85
+P0067,2025-08-29,Centro-Oeste,Vestuário,Jaqueta,4,104.22,416.88
+P0189,2025-08-30,Centro-Oeste,Eletrônicos,Teclado,5,285.64,1428.2
+P0121,2025-08-31,Sul,Esportes,Colchonete,4,247.36,989.44
+P0089,2025-09-01,Centro-Oeste,Alimentos,Chocolate,2,129.97,259.94
+P0095,2025-09-02,Sudeste,Eletrônicos,Carregador,3,425.26,1275.78
+P0177,2025-09-05,Centro-Oeste,Eletrônicos,Mouse,5,120.47,602.35
+P0225,2025-09-06,Nordeste,Esportes,Garrafa esportiva,3,208.96,626.88
+P0028,2025-09-06,Nordeste,Eletrônicos,Teclado,5,440.49,2202.45
+P0116,2025-09-11,Centro-Oeste,Casa,Organizador,2,96.55,193.1
+P0084,2025-09-11,Norte,Alimentos,Chocolate,1,123.4,123.4
+P0247,2025-09-14,Norte,Vestuário,Jaqueta,4,431.74,1726.96
+P0142,2025-09-14,Sul,Esportes,Garrafa esportiva,1,231.32,231.32
+P0264,2025-09-15,Nordeste,Esportes,Bola,2,198.86,397.72
+P0058,2025-09-16,Norte,Alimentos,Chocolate,1,126.48,126.48
+P0256,2025-09-18,Nordeste,Casa,Copo térmico,3,25.88,77.64
+P0156,2025-09-18,Sudeste,Casa,Copo térmico,4,197.49,789.96
+P0081,2025-09-21,Centro-Oeste,Esportes,Bola,2,162.8,325.6
+P0285,2025-09-21,Sudeste,Alimentos,Biscoitos,5,445.3,2226.5
+P0150,2025-09-21,Sudeste,Eletrônicos,Carregador,5,302.11,1510.55
+P0118,2025-09-22,Sudeste,Vestuário,Calça,4,54.98,219.92
+P0074,2025-09-24,Centro-Oeste,Esportes,Mochila,2,314.72,629.44
+P0184,2025-09-29,Centro-Oeste,Esportes,Mochila,2,412.63,825.26
+P0110,2025-09-30,Sul,Alimentos,Biscoitos,1,303.78,303.78
+P0013,2025-10-01,Centro-Oeste,Vestuário,Calça,4,88.59,354.36
+P0096,2025-10-03,Sudeste,Esportes,Bola,2,363.54,727.08
+P0053,2025-10-03,Centro-Oeste,Vestuário,Camiseta,2,236.54,473.08
+P0021,2025-10-11,Sul,Eletrônicos,Mouse,1,311.88,311.88
+P0086,2025-10-13,Sudeste,Vestuário,Calça,1,414.35,414.35
+P0004,2025-10-15,Sudeste,Vestuário,Calça,5,327.32,1636.6
+P0299,2025-10-15,Sudeste,Eletrônicos,Teclado,3,131.09,393.27
+P0131,2025-10-16,Norte,Casa,Almofada,2,54.8,109.6
+P0179,2025-10-17,Centro-Oeste,Eletrônicos,Teclado,4,411.39,1645.56
+P0134,2025-10-19,Nordeste,Esportes,Bola,1,44.02,44.02
+P0128,2025-10-21,Centro-Oeste,Casa,Copo térmico,4,220.78,883.12
+P0297,2025-10-21,Centro-Oeste,Vestuário,Jaqueta,4,246.73,986.92
+P0281,2025-10-25,Sul,Casa,Organizador,3,75.63,226.89
+P0018,2025-10-26,Sul,Alimentos,Chocolate,2,174.38,348.76
+P0173,2025-10-26,Sudeste,Vestuário,Jaqueta,3,118.31,354.93
+P0146,2025-10-27,Norte,Alimentos,Chocolate,4,292.23,1168.92
+P0033,2025-10-29,Nordeste,Vestuário,Camiseta,1,21.11,21.11
+P0243,2025-10-30,Centro-Oeste,Eletrônicos,Carregador,1,170.04,170.04
+P0072,2025-11-02,Sudeste,Alimentos,Café,3,167.34,502.02
+P0020,2025-11-02,Sudeste,Eletrônicos,Mouse,5,184.22,921.1
+P0026,2025-11-03,Centro-Oeste,Casa,Organizador,1,229.08,229.08
+P0216,2025-11-04,Sul,Casa,Copo térmico,5,169.91,849.55
+P0291,2025-11-05,Centro-Oeste,Alimentos,Chocolate,4,89.99,359.96
+P0132,2025-11-07,Sul,Esportes,Mochila,2,359.6,719.2
+P0180,2025-11-07,Sul,Casa,Organizador,2,112.61,225.22
+P0219,2025-11-08,Centro-Oeste,Casa,Organizador,3,30.51,91.53
+P0294,2025-11-08,Nordeste,Alimentos,Biscoitos,1,33.03,33.03
+P0300,2025-11-10,Nordeste,Casa,Luminária,4,317.8,1271.2
+P0055,2025-11-10,Centro-Oeste,Esportes,Garrafa esportiva,5,21.38,106.9
+P0088,2025-11-10,Sudeste,Esportes,Bola,5,202.35,1011.75
+P0245,2025-11-11,Sul,Esportes,Garrafa esportiva,4,237.05,948.2
+P0113,2025-11-12,Sudeste,Esportes,Colchonete,4,352.65,1410.6
+P0224,2025-11-13,Sudeste,Eletrônicos,Carregador,3,309.15,927.45
+P0049,2025-11-14,Sul,Eletrônicos,Mouse,5,199.11,995.55
+P0064,2025-11-14,Nordeste,Vestuário,Calça,2,417.93,835.86
+P0024,2025-11-17,Sul,Casa,Copo térmico,5,381.6,1908.0
+P0090,2025-11-17,Centro-Oeste,Vestuário,Calça,1,136.63,136.63
+P0167,2025-11-17,Sul,Alimentos,Café,1,394.87,394.87
+P0009,2025-11-18,Sul,Esportes,Bola,3,400.52,1201.56
+P0251,2025-11-20,Sul,Casa,Almofada,1,46.47,46.47
+P0276,2025-11-20,Centro-Oeste,Esportes,Mochila,2,266.42,532.84
+P0169,2025-11-21,Norte,Eletrônicos,Fone Bluetooth,3,209.67,629.01
+P0112,2025-11-22,Nordeste,Alimentos,Biscoitos,4,323.56,1294.24
+P0001,2025-11-24,Nordeste,Eletrônicos,Teclado,3,28.8,86.4
+P0198,2025-11-25,Centro-Oeste,Esportes,Bola,1,437.51,437.51
+P0022,2025-11-25,Nordeste,Casa,Almofada,4,66.19,264.76
+P0282,2025-11-26,Sudeste,Vestuário,Calça,4,376.73,1506.92
+P0255,2025-11-26,Norte,Casa,Almofada,5,369.3,1846.5
+P0190,2025-11-28,Centro-Oeste,Eletrônicos,Carregador,4,292.49,1169.96
+P0166,2025-11-29,Sudeste,Eletrônicos,Mouse,5,385.96,1929.8
+P0037,2025-12-04,Sudeste,Alimentos,Café,4,171.06,684.24
+P0029,2025-12-04,Centro-Oeste,Alimentos,Chocolate,2,427.04,854.08
+P0259,2025-12-05,Nordeste,Casa,Almofada,5,396.6,1983.0
+P0163,2025-12-06,Nordeste,Vestuário,Jaqueta,1,231.98,231.98
+P0278,2025-12-07,Norte,Eletrônicos,Fone Bluetooth,3,244.15,732.45
+P0174,2025-12-08,Centro-Oeste,Eletrônicos,Teclado,4,406.33,1625.32
+P0076,2025-12-08,Sul,Alimentos,Chá,3,158.91,476.73
+P0105,2025-12-09,Sudeste,Eletrônicos,Mouse,2,261.63,523.26
+P0215,2025-12-10,Norte,Eletrônicos,Mouse,4,195.47,781.88
+P0031,2025-12-10,Sudeste,Casa,Luminária,5,207.26,1036.3
+P0188,2025-12-11,Norte,Casa,Copo térmico,3,270.53,811.59
+P0038,2025-12-11,Norte,Eletrônicos,Teclado,3,44.18,132.54
+P0144,2025-12-12,Centro-Oeste,Esportes,Garrafa esportiva,1,271.64,271.64
+P0048,2025-12-12,Nordeste,Vestuário,Camiseta,5,192.43,962.15
+P0181,2025-12-14,Centro-Oeste,Vestuário,Tênis,1,289.4,289.4
+P0296,2025-12-14,Sudeste,Alimentos,Café,3,427.89,1283.67
+P0070,2025-12-14,Norte,Esportes,Colchonete,1,161.06,161.06
+P0241,2025-12-15,Centro-Oeste,Esportes,Colchonete,5,295.77,1478.85
+P0109,2025-12-17,Norte,Esportes,Colchonete,5,365.99,1829.95
+P0014,2025-12-17,Nordeste,Casa,Luminária,1,382.11,382.11
+P0207,2025-12-18,Norte,Eletrônicos,Fone Bluetooth,4,229.8,919.2
+P0138,2025-12-18,Nordeste,Vestuário,Tênis,5,417.13,2085.65
+P0213,2025-12-18,Norte,Alimentos,Chocolate,1,47.0,47.0
+P0119,2025-12-20,Sudeste,Alimentos,Café,4,297.03,1188.12
+P0176,2025-12-20,Nordeste,Casa,Almofada,3,215.35,646.05
+P0127,2025-12-24,Norte,Vestuário,Camiseta,4,293.56,1174.24
+P0153,2025-12-24,Nordeste,Alimentos,Chá,5,70.46,352.3
+P0178,2025-12-25,Centro-Oeste,Casa,Luminária,4,27.48,109.92
+P0010,2025-12-27,Centro-Oeste,Eletrônicos,Fone Bluetooth,2,37.8,75.6
+P0233,2025-12-30,Norte,Alimentos,Biscoitos,4,143.07,572.28
+P0266,2025-12-31,Norte,Esportes,Bola,3,385.7,1157.1
